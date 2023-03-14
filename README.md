@@ -1,2 +1,2 @@
 # AloeRepo
-Some gearin history
+Some gearsin history
